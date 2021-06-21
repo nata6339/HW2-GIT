@@ -1,0 +1,78 @@
+eb40963 (HEAD -> main, origin/main, origin/develop, develop) refs/remotes/origin/main@{0}: update by push
+eb40963 (HEAD -> main, origin/main, origin/develop, develop) refs/heads/main@{0}: merge develop: Fast-forwar
+d
+eb40963 (HEAD -> main, origin/main, origin/develop, develop) HEAD@{0}: merge develop: Fast-forward
+ca05316 (feature2, feature1) refs/remotes/origin/main@{1}: update by push
+ca05316 (feature2, feature1) HEAD@{1}: checkout: moving from develop to main
+eb40963 (HEAD -> main, origin/main, origin/develop, develop) refs/remotes/origin/develop@{0}: update by push
+eb40963 (HEAD -> main, origin/main, origin/develop, develop) refs/heads/develop@{0}: rebase (finish): refs/h
+eads/develop onto cb7b99758c91c93ca72ac14e6732138a79544973
+eb40963 (HEAD -> main, origin/main, origin/develop, develop) HEAD@{2}: rebase (finish): returning to refs/he
+ads/develop
+eb40963 (HEAD -> main, origin/main, origin/develop, develop) HEAD@{3}: rebase (pick): new image
+cb7b997 (feature4) HEAD@{4}: rebase (start): checkout feature4
+572a169 HEAD@{5}: checkout: moving from feature4 to develop
+cb7b997 (feature4) refs/heads/feature4@{0}: commit: new style1
+cb7b997 (feature4) HEAD@{6}: commit: new style1
+03634d3 HEAD@{7}: checkout: moving from develop to feature4
+572a169 refs/heads/develop@{1}: merge feature3: Merge made by the 'recursive' strategy.
+572a169 HEAD@{8}: merge feature3: Merge made by the 'recursive' strategy.
+8c23993 refs/heads/develop@{2}: rebase (finish): refs/heads/develop onto 03634d3da9333f57bb0d6529e979e5e42c4
+5799a
+8c23993 HEAD@{9}: rebase (finish): returning to refs/heads/develop
+8c23993 HEAD@{10}: rebase (pick): new image
+03634d3 HEAD@{11}: rebase (start): checkout feature4
+536b0a3 (feature3) refs/heads/develop@{3}: rebase (finish): refs/heads/develop onto 536b0a3f3408ecba6028737a
+0d3f69389e9337f7
+536b0a3 (feature3) HEAD@{12}: rebase (finish): returning to refs/heads/develop
+536b0a3 (feature3) HEAD@{13}: rebase (start): checkout feature3
+ca05316 (feature2, feature1) HEAD@{14}: checkout: moving from feature4 to develop
+03634d3 refs/heads/feature4@{1}: commit: new style
+03634d3 HEAD@{15}: commit: new style
+ca05316 (feature2, feature1) refs/heads/feature4@{2}: branch: Created from HEAD
+ca05316 (feature2, feature1) HEAD@{16}: checkout: moving from develop to feature4
+ca05316 (feature2, feature1) HEAD@{17}: checkout: moving from feature3 to develop
+536b0a3 (feature3) refs/heads/feature3@{0}: commit: new image
+536b0a3 (feature3) HEAD@{18}: commit: new image
+ca05316 (feature2, feature1) refs/heads/feature3@{1}: branch: Created from HEAD
+ca05316 (feature2, feature1) HEAD@{19}: checkout: moving from develop to feature3
+ca05316 (feature2, feature1) refs/heads/develop@{4}: reset: moving to ca053162f4e3701fb4e5db98db5a460bd069d3
+38
+ca05316 (feature2, feature1) HEAD@{20}: reset: moving to ca053162f4e3701fb4e5db98db5a460bd069d338
+975065d refs/heads/develop@{5}: commit: new image
+975065d HEAD@{21}: commit: new image
+ca05316 (feature2, feature1) HEAD@{22}: checkout: moving from main to develop
+ca05316 (feature2, feature1) refs/heads/main@{1}: merge develop: Fast-forward
+ca05316 (feature2, feature1) HEAD@{23}: merge develop: Fast-forward
+e2f6f1f HEAD@{24}: checkout: moving from feature2 to main
+ca05316 (feature2, feature1) refs/heads/feature2@{0}: merge develop: Fast-forward
+ca05316 (feature2, feature1) HEAD@{25}: merge develop: Fast-forward
+ac9a3ae HEAD@{26}: checkout: moving from feature1 to feature2
+ca05316 (feature2, feature1) refs/heads/feature1@{0}: merge develop: Fast-forward
+ca05316 (feature2, feature1) HEAD@{27}: merge develop: Fast-forward
+30021ea HEAD@{28}: checkout: moving from develop to feature1
+ca05316 (feature2, feature1) refs/heads/develop@{6}: merge feature2: Merge made by the 'recursive' strategy.
+ca05316 (feature2, feature1) HEAD@{29}: merge feature2: Merge made by the 'recursive' strategy.
+30021ea refs/heads/develop@{7}: merge feature1: Fast-forward
+30021ea HEAD@{30}: merge feature1: Fast-forward
+6c8325c HEAD@{31}: checkout: moving from feature2 to develop
+ac9a3ae refs/heads/feature2@{1}: commit: style into index
+ac9a3ae HEAD@{32}: commit: style into index
+6c8325c refs/heads/feature2@{2}: branch: Created from HEAD
+6c8325c HEAD@{33}: checkout: moving from develop to feature2
+6c8325c HEAD@{34}: checkout: moving from feature1 to develop
+30021ea refs/heads/feature1@{1}: commit: image into index
+30021ea HEAD@{35}: commit: image into index
+38013f4 refs/heads/feature1@{2}: commit: images add
+38013f4 HEAD@{36}: commit: images add
+6c8325c refs/heads/feature1@{3}: branch: Created from HEAD
+6c8325c HEAD@{37}: checkout: moving from develop to feature1
+6c8325c refs/heads/develop@{8}: commit: index add
+6c8325c HEAD@{38}: commit: index add
+e2f6f1f refs/heads/develop@{9}: branch: Created from HEAD
+e2f6f1f HEAD@{39}: checkout: moving from main to develop
+e2f6f1f refs/remotes/origin/main@{2}: update by push
+e2f6f1f refs/heads/main@{2}: Branch: renamed refs/heads/master to refs/heads/main
+e2f6f1f refs/heads/main@{3}: commit (initial): first commit
+e2f6f1f HEAD@{40}: Branch: renamed refs/heads/master to refs/heads/main
+e2f6f1f HEAD@{42}: commit (initial): first commit
