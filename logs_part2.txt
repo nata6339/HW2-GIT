@@ -1,0 +1,41 @@
+C:\Users\Admin\Desktop\HW2-GIT>git reflog show --all
+d80e636 (HEAD -> main, origin/main) refs/remotes/origin/main@{0}: update by push
+d80e636 (HEAD -> main, origin/main) refs/heads/main@{0}: merge develop: Merge made by the 'recursive' strate
+gy.
+d80e636 (HEAD -> main, origin/main) HEAD@{0}: merge develop: Merge made by the 'recursive' strategy.
+eb4ddd3 HEAD@{1}: checkout: moving from develop to main
+b6bec14 (feature5, develop) refs/heads/develop@{0}: merge feature5: Fast-forward
+b6bec14 (feature5, develop) HEAD@{2}: merge feature5: Fast-forward
+eb40963 (origin/develop) HEAD@{3}: checkout: moving from feature5 to develop
+b6bec14 (feature5, develop) refs/heads/feature5@{0}: rebase (finish): refs/heads/feature5 onto eb40963baab18
+d72e53d5867fb2766b435e1e1bf
+b6bec14 (feature5, develop) HEAD@{4}: rebase (finish): returning to refs/heads/feature5
+b6bec14 (feature5, develop) HEAD@{5}: rebase (fixup): new style4
+df096be HEAD@{6}: rebase (fixup): ^A This is a combination of 2 commits.
+39f2927 HEAD@{7}: rebase (reword): new style4
+3a59b44 HEAD@{8}: rebase: fast-forward
+eb40963 (origin/develop) HEAD@{9}: rebase (start): checkout eb40963baab18d72e53d5867fb2766b435e1e1bf
+1c5d2e8 (origin/feature5) HEAD@{10}: rebase (abort): updating HEAD
+1c5d2e8 (origin/feature5) HEAD@{11}: rebase (abort): updating HEAD
+1c5d2e8 (origin/feature5) HEAD@{12}: rebase (abort): updating HEAD
+eb40963 (origin/develop) HEAD@{13}: rebase (start): checkout HEAD~3
+1c5d2e8 (origin/feature5) HEAD@{14}: rebase (abort): updating HEAD
+1c5d2e8 (origin/feature5) HEAD@{15}: rebase (abort): updating HEAD
+1c5d2e8 (origin/feature5) HEAD@{16}: rebase (abort): updating HEAD
+eb40963 (origin/develop) HEAD@{17}: rebase (start): checkout HEAD~3
+1c5d2e8 (origin/feature5) HEAD@{18}: rebase (abort): updating HEAD
+1c5d2e8 (origin/feature5) HEAD@{19}: rebase (abort): updating HEAD
+1c5d2e8 (origin/feature5) HEAD@{20}: rebase (abort): updating HEAD
+1c5d2e8 (origin/feature5) HEAD@{21}: rebase (abort): updating HEAD
+1c5d2e8 (origin/feature5) refs/remotes/origin/feature5@{0}: update by push
+1c5d2e8 (origin/feature5) refs/heads/feature5@{1}: commit: new style4
+1c5d2e8 (origin/feature5) HEAD@{22}: commit: new style4
+7a96d7a refs/remotes/origin/feature5@{1}: update by push
+7a96d7a refs/heads/feature5@{2}: commit: new style3
+7a96d7a HEAD@{23}: commit: new style3
+3a59b44 refs/remotes/origin/feature5@{2}: update by push
+3a59b44 refs/heads/feature5@{3}: commit: new style2
+3a59b44 HEAD@{24}: commit: new style2
+eb40963 (origin/develop) refs/heads/feature5@{4}: branch: Created from HEAD
+eb40963 (origin/develop) HEAD@{25}: checkout: moving from develop to feature5
+eb40963 (origin/develop) HEAD@{26}: checkout: moving from main to develop
