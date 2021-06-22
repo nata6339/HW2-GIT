@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\HW2-GIT>git reflog
+d27a178 (HEAD -> develop) HEAD@{0}: reset: moving to HEAD~2
+54ce30f (origin/develop) HEAD@{1}: commit: readme file changed
+2f921a4 HEAD@{2}: commit: changed style
+d27a178 (HEAD -> develop) HEAD@{3}: checkout: moving from feature5 to develop
+d27a178 (HEAD -> develop) HEAD@{4}: merge develop: Fast-forward
+b6bec14 HEAD@{5}: checkout: moving from develop to feature5
+d27a178 (HEAD -> develop) HEAD@{6}: checkout: moving from feature3 to develop
+d27a178 (HEAD -> develop) HEAD@{7}: merge develop: Fast-forward
+536b0a3 HEAD@{8}: checkout: moving from develop to feature3
+d27a178 (HEAD -> develop) HEAD@{9}: merge feature3: Merge made by the 'recursive' strategy.
+b6bec14 HEAD@{10}: checkout: moving from ca053162f4e3701fb4e5db98db5a460bd069d338 to develop
+ca05316 HEAD@{11}: checkout: moving from develop to feature1
+b6bec14 HEAD@{12}: checkout: moving from main to develop
